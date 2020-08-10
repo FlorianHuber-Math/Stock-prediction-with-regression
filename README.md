@@ -4,7 +4,8 @@ This repository contains a jupyter notebook, where you can find a a simple attem
 </p>
 
 ### Built With
-*pandas
-*numpy
-*sklearn
-*matplotlib
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+- [pandas](https://pandas.pydata.org/)
+- [sklearn](https://scikit-learn.org/stable/)
+
